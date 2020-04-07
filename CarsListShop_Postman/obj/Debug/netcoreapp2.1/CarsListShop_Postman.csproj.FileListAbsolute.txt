@@ -1,0 +1,13 @@
+C:\Users\alexv\source\repos\CarsListShop_Postman\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\alexv\source\repos\CarsListShop_Postman\bin\Debug\netcoreapp2.1\CarsListShop_Postman.deps.json
+C:\Users\alexv\source\repos\CarsListShop_Postman\bin\Debug\netcoreapp2.1\CarsListShop_Postman.runtimeconfig.json
+C:\Users\alexv\source\repos\CarsListShop_Postman\bin\Debug\netcoreapp2.1\CarsListShop_Postman.runtimeconfig.dev.json
+C:\Users\alexv\source\repos\CarsListShop_Postman\bin\Debug\netcoreapp2.1\CarsListShop_Postman.dll
+C:\Users\alexv\source\repos\CarsListShop_Postman\bin\Debug\netcoreapp2.1\CarsListShop_Postman.pdb
+C:\Users\alexv\source\repos\CarsListShop_Postman\obj\Debug\netcoreapp2.1\CarsListShop_Postman.RazorAssemblyInfo.cache
+C:\Users\alexv\source\repos\CarsListShop_Postman\obj\Debug\netcoreapp2.1\CarsListShop_Postman.RazorAssemblyInfo.cs
+C:\Users\alexv\source\repos\CarsListShop_Postman\obj\Debug\netcoreapp2.1\CarsListShop_Postman.AssemblyInfoInputs.cache
+C:\Users\alexv\source\repos\CarsListShop_Postman\obj\Debug\netcoreapp2.1\CarsListShop_Postman.AssemblyInfo.cs
+C:\Users\alexv\source\repos\CarsListShop_Postman\obj\Debug\netcoreapp2.1\CarsListShop_Postman.RazorTargetAssemblyInfo.cache
+C:\Users\alexv\source\repos\CarsListShop_Postman\obj\Debug\netcoreapp2.1\CarsListShop_Postman.dll
+C:\Users\alexv\source\repos\CarsListShop_Postman\obj\Debug\netcoreapp2.1\CarsListShop_Postman.pdb

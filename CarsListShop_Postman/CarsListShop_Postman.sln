@@ -5,10 +5,6 @@ VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarsListShop_Postman", "CarsListShop_Postman.csproj", "{D72DC601-2540-4770-AD9B-D0457EE150E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleDetails", "..\VehicleDetails\VehicleDetails.csproj", "{2951AF1C-8E13-4770-A133-CF383488AFC8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleMoreInformations", "..\VehicleMoreInformations\VehicleMoreInformations.csproj", "{7BC5948D-6CDE-4C6D-9A4A-394AC6521F7A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,14 +15,6 @@ Global
 		{D72DC601-2540-4770-AD9B-D0457EE150E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D72DC601-2540-4770-AD9B-D0457EE150E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D72DC601-2540-4770-AD9B-D0457EE150E2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2951AF1C-8E13-4770-A133-CF383488AFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2951AF1C-8E13-4770-A133-CF383488AFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2951AF1C-8E13-4770-A133-CF383488AFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2951AF1C-8E13-4770-A133-CF383488AFC8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7BC5948D-6CDE-4C6D-9A4A-394AC6521F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7BC5948D-6CDE-4C6D-9A4A-394AC6521F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7BC5948D-6CDE-4C6D-9A4A-394AC6521F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7BC5948D-6CDE-4C6D-9A4A-394AC6521F7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

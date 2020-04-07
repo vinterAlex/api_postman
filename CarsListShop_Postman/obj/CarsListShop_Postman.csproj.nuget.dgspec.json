@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexv\\source\\repos\\CarsListShop_Postman\\CarsListShop_Postman.csproj": {}
+    "Y:\\CSharp_API_Project\\CarsListShop_Postman\\CarsListShop_Postman.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexv\\source\\repos\\CarsListShop_Postman\\CarsListShop_Postman.csproj": {
+    "Y:\\CSharp_API_Project\\CarsListShop_Postman\\CarsListShop_Postman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexv\\source\\repos\\CarsListShop_Postman\\CarsListShop_Postman.csproj",
+        "projectUniqueName": "Y:\\CSharp_API_Project\\CarsListShop_Postman\\CarsListShop_Postman.csproj",
         "projectName": "CarsListShop_Postman",
-        "projectPath": "C:\\Users\\alexv\\source\\repos\\CarsListShop_Postman\\CarsListShop_Postman.csproj",
+        "projectPath": "Y:\\CSharp_API_Project\\CarsListShop_Postman\\CarsListShop_Postman.csproj",
         "packagesPath": "C:\\Users\\alexv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexv\\source\\repos\\CarsListShop_Postman\\obj\\",
+        "outputPath": "Y:\\CSharp_API_Project\\CarsListShop_Postman\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

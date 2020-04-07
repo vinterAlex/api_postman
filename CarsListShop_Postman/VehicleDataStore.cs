@@ -40,7 +40,7 @@ namespace CarsListShop_Postman
                                 VehicleInformationID = 2,
                                 DriveType = "All-Wheel Drive",
                                 EngineDescription = "SIDI",
-                                Model = "M5"
+                                Model = "M5 - sport"
                             }
                         }
                         

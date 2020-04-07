@@ -1,12 +1,12 @@
 # api_postman
 API project with C#
 -----------------------------------------
-.
+
 [ApiController]
 [Route("api/vehicles/{vehicleId}/info")]
     
 [HttpGet("{info_id}")]  
-.
+
 -----------------------------------------------------------------
 
 In Postman:
